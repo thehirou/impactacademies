@@ -1,0 +1,1 @@
+puntos=puntos+1

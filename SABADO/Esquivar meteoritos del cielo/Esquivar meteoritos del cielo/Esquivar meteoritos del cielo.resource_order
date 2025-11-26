@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Comidas","order":5,"path":"folders/Comidas.yy",},
+    {"name":"Niveles","order":8,"path":"folders/Niveles.yy",},
+    {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"No tocar","order":2,"path":"folders/Objetos/No tocar.yy",},
+    {"name":"Obstaculos","order":6,"path":"folders/Obstaculos.yy",},
+    {"name":"Personajes","order":7,"path":"folders/Personajes.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_comida_parent","order":4,"path":"objects/obj_comida_parent/obj_comida_parent.yy",},
+    {"name":"obj_jugador","order":1,"path":"objects/obj_jugador/obj_jugador.yy",},
+    {"name":"obj_obstaculo_parent","order":3,"path":"objects/obj_obstaculo_parent/obj_obstaculo_parent.yy",},
+    {"name":"spr_comida_2","order":1,"path":"sprites/spr_comida_2/spr_comida_2.yy",},
+    {"name":"spr_comida_3","order":2,"path":"sprites/spr_comida_3/spr_comida_3.yy",},
+    {"name":"spr_comida_4","order":3,"path":"sprites/spr_comida_4/spr_comida_4.yy",},
+    {"name":"spr_comida_5","order":4,"path":"sprites/spr_comida_5/spr_comida_5.yy",},
+    {"name":"spr_obstaculo_2","order":1,"path":"sprites/spr_obstaculo_2/spr_obstaculo_2.yy",},
+    {"name":"spr_obstaculo_3","order":2,"path":"sprites/spr_obstaculo_3/spr_obstaculo_3.yy",},
+    {"name":"spr_obstaculo_4","order":3,"path":"sprites/spr_obstaculo_4/spr_obstaculo_4.yy",},
+    {"name":"spr_obstaculo_5","order":4,"path":"sprites/spr_obstaculo_5/spr_obstaculo_5.yy",},
+    {"name":"Sprite12_1","order":11,"path":"sprites/Sprite12_1/Sprite12_1.yy",},
+    {"name":"Sprite12","order":10,"path":"sprites/Sprite12/Sprite12.yy",},
+  ],
+}
