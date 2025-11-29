@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"powerUp",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.43247166,
+  "exportDir":"",
+  "name":"powerUp",
+  "parent":{
+    "name":"Laberinto Test",
+    "path":"Laberinto Test.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"powerUp.wav",
+  "volume":1.0,
+}
