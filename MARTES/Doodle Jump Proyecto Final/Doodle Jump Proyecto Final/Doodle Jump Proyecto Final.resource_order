@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"NOTAS_CLASE","order":6,"path":"notes/NOTAS_CLASE/NOTAS_CLASE.yy",},
+    {"name":"obj_jugador","order":5,"path":"objects/obj_jugador/obj_jugador.yy",},
+    {"name":"obj_plataforma","order":4,"path":"objects/obj_plataforma/obj_plataforma.yy",},
+    {"name":"jugador","order":1,"path":"sprites/jugador/jugador.yy",},
+    {"name":"plataforma","order":2,"path":"sprites/plataforma/plataforma.yy",},
+  ],
+}

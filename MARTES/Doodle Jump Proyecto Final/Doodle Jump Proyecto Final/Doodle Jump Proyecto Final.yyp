@@ -1,0 +1,38 @@
+{
+  "$GMProject":"v1",
+  "%Name":"Doodle Jump Proyecto Final",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.14.1.210",
+  },
+  "name":"Doodle Jump Proyecto Final",
+  "resources":[
+    {"id":{"name":"NOTAS_CLASE","path":"notes/NOTAS_CLASE/NOTAS_CLASE.yy",},},
+    {"id":{"name":"obj_jugador","path":"objects/obj_jugador/obj_jugador.yy",},},
+    {"id":{"name":"obj_plataforma","path":"objects/obj_plataforma/obj_plataforma.yy",},},
+    {"id":{"name":"nivel_1","path":"rooms/nivel_1/nivel_1.yy",},},
+    {"id":{"name":"jugador","path":"sprites/jugador/jugador.yy",},},
+    {"id":{"name":"plataforma","path":"sprites/plataforma/plataforma.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"nivel_1","path":"rooms/nivel_1/nivel_1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
