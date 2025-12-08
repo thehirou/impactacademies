@@ -1,0 +1,1 @@
+global.latas+=1

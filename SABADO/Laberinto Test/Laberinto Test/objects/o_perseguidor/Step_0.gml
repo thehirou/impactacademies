@@ -1,5 +1,11 @@
-var move_x=keyboard_check(vk_left) - keyboard_check(vk_right)
-var move_y=keyboard_check(vk_up) - keyboard_check(vk_down)
+timer--
+
+if timer<=0
+{
+	move_x=choose(-1,1)	
+	move_y=choose(-1,1)	
+	timer=irandom_range(60,300)
+}
 
 move_and_collide(move_x*velocidad,move_y*velocidad,o_pared)
 
@@ -15,7 +21,7 @@ else
 
 
 
-if global.latas>=6 global.win=true
+
 
 
 
