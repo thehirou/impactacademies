@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_jugador",
+  "%Name":"obj_enemigo",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_muerte","path":"objects/obj_muerte/obj_muerte.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_enemigo","path":"objects/obj_enemigo/obj_enemigo.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_misil","path":"objects/obj_misil/obj_misil.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_jugador",
+  "name":"obj_enemigo",
   "overriddenProperties":[],
   "parent":{
     "name":"Doodle Jump Proyecto Final",
@@ -34,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_jugador",
-    "path":"sprites/spr_jugador/spr_jugador.yy",
+    "name":"spr_enemigo",
+    "path":"sprites/spr_enemigo/spr_enemigo.yy",
   },
   "spriteMaskId":null,
   "visible":true,
