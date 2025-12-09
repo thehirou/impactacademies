@@ -14,8 +14,8 @@
   "exportDir":"",
   "name":"snd_salto",
   "parent":{
-    "name":"Doodle Jump Proyecto Final",
-    "path":"Doodle Jump Proyecto Final.yyp",
+    "name":"MISC",
+    "path":"folders/MISC.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

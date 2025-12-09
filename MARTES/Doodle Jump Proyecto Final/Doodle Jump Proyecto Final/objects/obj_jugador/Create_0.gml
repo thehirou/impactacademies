@@ -46,6 +46,6 @@ lerp_amt = 0.2
 
 
 //Ajustes de ventana (Opcionales)
-window_set_size(480,640)
+window_set_size(480*3,640*3)
 window_center()
 
